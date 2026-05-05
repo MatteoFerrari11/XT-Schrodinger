@@ -1,5 +1,5 @@
-% Accompanying code for the Paper:
-% "Unconditionally stable space–time isogeometric method for the linear Schrödinger equation"
+% This code is associated with the paper 
+% "A matrix-based approach to the stability of a space-time isogeometric method for the linear Schrödinger equation"
 %
 % Authors: M. Ferrari and S. Gómez
 %
