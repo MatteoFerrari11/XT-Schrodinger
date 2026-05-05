@@ -3,7 +3,7 @@
 %
 % by M. Ferrari and S. Gómez
 
-% This code reproduces Figure 3
+% This code reproduces Figure 5
 
 clc
 clear
