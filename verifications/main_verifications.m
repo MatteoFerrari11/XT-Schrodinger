@@ -1,3 +1,10 @@
+% This code is associated with the paper 
+% "A matrix-based approach to the stability of a space-time isogeometric method for the linear Schrödinger equation"
+%
+% by M. Ferrari and S. Gómez
+
+% This code reproduces Figure 1
+
 clc
 clear
 close all
